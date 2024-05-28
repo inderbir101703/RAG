@@ -1,0 +1,6 @@
+make a openai account and create the key(paid)
+build .env file and set OPEN_API_KEY to that key 
+install docker and run "docker pull chroma"
+npm i and run "npm run start"
+update ques and urls if you want
+RAG is ready

@@ -1,0 +1,22 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r ts-node/register index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.2.3",
+    "@langchain/openai": "^0.0.33",
+    "@types/node": "^20.12.12",
+    "cheerio": "^1.0.0-rc.12",
+    "chromadb": "^1.8.1",
+    "langchain": "^0.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
